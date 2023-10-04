@@ -1,0 +1,4 @@
+node_modules
+my-app/copy_*
+my-app/dist_*
+my-app/dist/
